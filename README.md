@@ -3,8 +3,8 @@
 Fix blurry, low-res game clips, screenshots, thumbnails and art, upscale them to 4K and make them
 ready to upload, on **your own graphics card**. Nothing you open is uploaded anywhere. Free.
 
-**[Download the latest version](https://github.com/SAVATTOR/sync-content-studio/releases/latest)**
-(the `.zip` file under **Assets**, about 250 MB)
+**[Download for Windows](https://github.com/SAVATTOR/sync-content-studio/releases/latest/download/SyncContentStudio-Windows.zip)**
+(`SyncContentStudio-Windows.zip`, about 250 MB; [all versions](https://github.com/SAVATTOR/sync-content-studio/releases))
 
 ![Upscaling a video](screenshots/upscale.png)
 
@@ -26,7 +26,7 @@ ready to upload, on **your own graphics card**. Nothing you open is uploaded any
 
 ## Start it
 
-1. Download the `.zip` from the [latest release](https://github.com/SAVATTOR/sync-content-studio/releases/latest).
+1. [Download `SyncContentStudio-Windows.zip`](https://github.com/SAVATTOR/sync-content-studio/releases/latest/download/SyncContentStudio-Windows.zip).
 2. Right-click it > **Extract All**, and put the folder somewhere you like (for example Documents).
 3. Open the folder and double-click **Sync Content Studio.exe**. The first time, it adds itself to
    the Start menu.
